@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tinder2.0",
+    "slug": "tinder2.0",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tinder2.0"
+}
